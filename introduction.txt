@@ -1,0 +1,6 @@
+Brief Introduction About Myself
+
+My name is Nellie Mlanda. I am currently learning how to use GitHub and exploring version control. 
+I enjoy working with technology and improving my coding skills.
+
+I am excited to build more projects, learn Git properly, and collaborate with others in the future.
