@@ -1,1 +1,2 @@
-So far in this course, I have learned how to use GitHub to manage projects. I can now clone repositories, create files, commit changes, and push updates to GitHub.
+What I have learned from this course. I have learned how to use GitHub to manage projects. I can clone repositories, create files, commit changes, and push updates to GitHub.
+
